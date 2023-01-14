@@ -26,7 +26,9 @@ Ensure your device is plugged and launch this command.
 
 <details>
   <summary><samp>BTC</samp></summary>
-  <code>bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy</code>
+  ```txt
+  bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy
+  ```
 </details>
 
 <details>
