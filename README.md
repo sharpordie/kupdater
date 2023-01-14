@@ -24,7 +24,7 @@ Ensure your device is plugged and launch this command.
 
 # <samp>FUNDING</samp>
 
-| <samp>CURRENCY</samp> | <samp>ADDRESS</samp> |
+|  | <samp>ADDRESS</samp> |
 | :-- | :-- |
 | <samp>BTC</samp> | bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy |
 | <samp>ETH</samp> | 0xb896291B6755456617f261a041222298e290115f |
