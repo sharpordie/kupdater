@@ -24,6 +24,11 @@ Ensure your device is plugged and launch this command.
 
 # <samp>FUNDING</samp>
 
+| <samp>BTC</samp> | <samp>XMR</samp> |
+| :-: | :-: |
+| `bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy` | `45sfE7kS6uB8fKjMnSbddvHZoCKDPoaJLjDUzrgiALa2ZR2rJwmZQRb4y4o29ZYosdjRoPVcu6xH6YzoA3Pd69wPJ41TAmP` |
+
+<!--
 ```txt
 BTC: bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy
 ETH: 0xb896291B6755456617f261a041222298e290115f
@@ -32,3 +37,4 @@ BCH: qpglchv3s5a5rnahhjuaps40e03ntcx4qyg93quuzr
 ADA: addr1q9ughc447axdcgs7905jlmty3s2gfespfth7gq8y42glz8mc303tta6vms3pu2lf9lkkfrq5snnqzjh0usqwf2537y0s3egx75
 XMR: 45sfE7kS6uB8fKjMnSbddvHZoCKDPoaJLjDUzrgiALa2ZR2rJwmZQRb4y4o29ZYosdjRoPVcu6xH6YzoA3Pd69wPJ41TAmP
 ```
+-->
