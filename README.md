@@ -1,18 +1,18 @@
-# <samp>PREFACE</samp>
+# <samp>OVERVIEW</samp>
 
 Automatic firmware and koreader updater for **Kobo Aura**.
 
-# <samp>SUPPORT</samp>
+# <samp>COVERAGE</samp>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟩<br><br> | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟥<br><br> |
 
-# <samp>PREVIEW</samp>
+# <samp>PICTURES</samp>
 
 <img src="assets/img1.png" width="49.25%"/><img src="assets/img0.png" width="1.5%"/><img src="assets/img2.png" width="49.25%"/>
 
-# <samp>STARTER</samp>
+# <samp>STARTING</samp>
 
 **One-command execution**
 
@@ -22,7 +22,7 @@ Ensure your device is plugged and launch this command.
 /bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/sharpordie/kupdator/HEAD/src/kupdator.sh)"
 ```
 
-# <samp>FUNDING</samp>
+# <samp>DONATION</samp>
 
 <details>
   <h2><summary><samp>BTC</samp></summary></h2>
