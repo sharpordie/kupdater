@@ -26,12 +26,12 @@ Ensure your device is plugged and launch this command.
 
 <table>
   <tr align="center">
-    <th width="50%"><samp>BTC</samp></th>
-    <th width="50%"><samp>ETH</samp></th>
+    <th width="5000"><samp>BTC</samp></th>
+    <th width="5000"><samp>ETH</samp></th>
   </tr>
   <tr align="center">
-    <td width="50%"><p><br>bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy</p></td>
-    <td width="50%"><p><br>0xb896291B6755456617f261a041222298e290115f</p></td>
+    <td width="5000"><p><br>bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy</p></td>
+    <td width="5000"><p><br>0xb896291B6755456617f261a041222298e290115f</p></td>
   </tr>
   <tr align="center">
     <th><samp>XMR</samp></th>
