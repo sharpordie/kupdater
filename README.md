@@ -24,6 +24,10 @@ Ensure your device is plugged and launch this command.
 
 # <samp>FUNDING</samp>
 
+| <samp>AND</samp> | <samp>IOS</samp> |
+| :-: | :-: |
+| `bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy` | `0xb896291B6755456617f261a041222298e290115f` |
+
 ## <samp>BTC</samp>
 
 ```txt
