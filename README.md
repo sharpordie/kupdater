@@ -24,6 +24,8 @@ Ensure your device is plugged and launch this command.
 
 # <samp>FUNDING</samp>
 
+<samp>ADA</samp> | ```addr1q9ughc447axdcgs7905jlmty3s2gfespfth7gq8y42glz8mc303tta6vms3pu2lf9lkkfrq5snnqzjh0usqwf2537y0s3egx75```
+
 | <samp>CUR</samp> | <samp>ADDRESS</samp> |
 | :-- | :-- |
 | <samp>BTC</samp> | ```bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy``` |
