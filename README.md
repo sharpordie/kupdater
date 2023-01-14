@@ -25,7 +25,7 @@ Ensure your device is plugged and launch this command.
 # <samp>FUNDING</samp>
 
 <details>
-  <summary><samp>BTC</samp></summary>
+  <summary><h2><samp>BTC</samp></h2></summary>
   <pre>bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy</pre>
 </details>
 
