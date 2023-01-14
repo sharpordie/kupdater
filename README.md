@@ -6,7 +6,7 @@ Automatic firmware and koreader updater for [Kobo Aura](https://en.wikipedia.org
 
 # <samp>GUIDANCE</samp>
 
-## ONE-COMMAND EXECUTION
+## One-command execution
 
 Ensure your device is plugged and launch this command.
 
