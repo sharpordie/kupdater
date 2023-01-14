@@ -72,7 +72,7 @@ update_database() {
 
 		content=$(printf ",'%s'" "${factors[@]}" | cut -c2-)
 
-		echo "INSERT INTO user values ($content);" | sqlite3 "storage" 2>/dev/null
+		echo "INSERT INTO user values ($content);" | sqlite3 "$storage" 2>/dev/null
 
 	fi
 
@@ -97,7 +97,7 @@ update_firmware() {
 	archive=$(mktemp -d)/$(basename "$address")
 
 	curl -Ls "$address" -o "$archive"
-	unzip -o "$archive" -d "$(access_external)/.kobo" &>/dev/null
+	unzip -q "$archive" -d "$(access_external)/.kobo" 2>/dev/null
 
 }
 
@@ -120,8 +120,8 @@ update_koreader() {
 		archive=$tempdir/$(basename "$address")
 
 		curl -Ls "$address" -o "$archive"
-		unzip "$archive" -d "$tempdir" &>/dev/null
-		chmod +x "$tempdir/install.command" && echo 0 | "$tempdir/install.command"
+		unzip -q "$archive" -d "$tempdir"
+		chmod +x "$tempdir/install.command" && echo 0 | "$tempdir/install.command" &>/dev/null
 
 	elif [[ $(uname -s) = Lin* ]]; then
 
@@ -131,8 +131,8 @@ update_koreader() {
 		archive=$tempdir/$(basename "$address")
 
 		curl -Ls "$address" -o "$archive"
-		unzip "$archive" -d "$tempdir" &>/dev/null
-		chmod +x "$tempdir/install.sh" && echo 0 | "$tempdir/install.sh"
+		unzip -q "$archive" -d "$tempdir"
+		chmod +x "$tempdir/install.sh" && echo 0 | "$tempdir/install.sh" &>/dev/null
 
 	fi
 
@@ -165,7 +165,7 @@ main() {
 	update_koreader
 	remove_unwanted
 
-	printf "\r\033[92m%s\033[00m\n\n" "SUCCESS, YOU CAN UNPLUG THE DEVICE."
+	printf "\r\033[92m%s\033[00m\n\n" "SUCCESS, YOU CAN EJECT AND UNPLUG THE DEVICE."
 
 }
 
