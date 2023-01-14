@@ -24,9 +24,24 @@ Ensure your device is plugged and launch this command.
 
 # <samp>FUNDING</samp>
 
-| <samp>BTC</samp> | <samp>XMR</samp> |
-| :-: | :-: |
-| `bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy` | `45sfE7kS6uB8fKjMnSbddvHZoCKDPoaJLjDUzrgiALa2ZR2rJwmZQRb4y4o29ZYosdjRoPVcu6xH6YzoA3Pd69wPJ41TAmP` |
+<table>
+  <tr align="center">
+    <th width="50%"><samp>BTC</samp></th>
+    <th width="50%"><samp>ETH</samp></th>
+  </tr>
+  <tr align="center">
+    <td width="50%"><p><br>bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy</p></td>
+    <td width="50%"><p><br>0xb896291B6755456617f261a041222298e290115f</p></td>
+  </tr>
+  <tr align="center">
+    <th><samp>XMR</samp></th>
+    <th><samp>ADA</samp></th>
+  </tr>
+  <tr align="center">
+    <td><p><br>45sfE7kS6uB8fKjMnSbddvHZoCKDPoaJLjDUzrgiALa2ZR2rJwmZQRb4y4o29ZYosdjRoPVcu6xH6YzoA3Pd69wPJ41TAmP</p></td>
+    <td><p><br>addr1q9ughc447axdcgs7905jlmty3s2gfespfth7gq8y42glz8mc303tta6vms3pu2lf9lkkfrq5snnqzjh0usqwf2537y0s3egx75</p></td>
+  </tr>
+</table>
 
 <!--
 ```txt
