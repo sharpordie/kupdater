@@ -24,7 +24,7 @@ Ensure your device is plugged and launch this command.
 
 # <samp>FUNDING</samp>
 
-```txt
+```
 BTC: bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy
 ETH: 0xb896291B6755456617f261a041222298e290115f
 BAT: 0xA6AeBFce98456a8d10B2609DbD3609015F80B20a
