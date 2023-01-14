@@ -24,6 +24,25 @@ Ensure your device is plugged and launch this command.
 
 # <samp>FUNDING</samp>
 
+## <samp>BTC</samp>
+
+```txt
+bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy
+```
+
+## <samp>ETH</samp>
+
+```txt
+0xb896291B6755456617f261a041222298e290115f
+```
+
+## <samp>XMR</samp>
+
+```txt
+45sfE7kS6uB8fKjMnSbddvHZoCKDPoaJLjDUzrgiALa2ZR2rJwmZQRb4y4o29ZYosdjRoPVcu6xH6YzoA3Pd69wPJ41TAmP
+```
+
+<!--
 <table>
   <tr align="center">
     <th width="5000"><samp>BTC</samp></th>
@@ -43,7 +62,6 @@ Ensure your device is plugged and launch this command.
   </tr>
 </table>
 
-<!--
 ```txt
 BTC: bc1qwy5uxjlmdmaps9yuumug779srt3g52mynzarzy
 ETH: 0xb896291B6755456617f261a041222298e290115f
