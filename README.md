@@ -2,13 +2,13 @@
 
 Automatic firmware and koreader updater for **Kobo Aura**.
 
-## Supported platforms
+## SUPPORT
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | <br>🟥<br><br> | <br>🟥<br><br> | <br>🟩<br><br> | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟥<br><br> |
 
-## Some pictures
+## PREVIEW
 
 <img src="assets/img1.png" width="49.25%"/><img src="assets/img0.png" width="1.5%"/><img src="assets/img2.png" width="49.25%"/>
 
