@@ -1,6 +1,6 @@
 # <samp>OVERVIEW</samp>
 
-Automatic firmware and koreader updater for [Kog](https://en.wikipedia.org/wiki/Kobo_Aura).
+Automatic firmware and koreader updater for Kobo Aura.
 
 <img src="assets/img1.png" width="49.25%"/><img src="assets/img0.png" width="1.5%"/><img src="assets/img2.png" width="49.25%"/>
 
